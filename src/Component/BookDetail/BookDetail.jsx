@@ -22,6 +22,7 @@ const BookDetail = () => {
     review,
     category,
     tags,
+    ratings
   } = book;
   return (
     <div className="flex">
